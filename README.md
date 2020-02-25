@@ -1,2 +1,2 @@
 # Salmon_HEAC
-Simple proof of concept mod. Had more but it was deleted. Finally putting it on github so this doesn't happen in the future lol
+ Adds helmet functionality for RHS and some random stuff I throw in. Inspired by various mods I've seen over the years and lost. 

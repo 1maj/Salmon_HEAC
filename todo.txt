@@ -1,0 +1,2 @@
+not dropping when killed
+stance stuck prone after waking up so rifle looks fucked
